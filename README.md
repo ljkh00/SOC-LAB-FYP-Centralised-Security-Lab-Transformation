@@ -4,7 +4,7 @@ A multi-phase Final Year Project initiative to transform a physical university c
 virtualised Security Operations Centre (SOC) training environment.
 
 ## Navigation
-Browse the live project site: https://nathannnn71.github.io/SOC-LAB-FYP-Centralised-Security-Lab-Transformation/index.html 
+Browse the live project site: https://ljkh00.github.io/SOC-LAB-FYP-Centralised-Security-Lab-Transformation/index.html 
 
 ## Lab Hardware
 | Node | Spec | Role |
